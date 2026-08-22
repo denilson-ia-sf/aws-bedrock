@@ -2,6 +2,8 @@
 
 Repository dedicated to AWS Bedrock projects, architecture experiments, and production-ready AI workflows.
 
+![AWS Bedrock AgentCore Runtime](banner.png)
+
 ---
 
 ## Overview
