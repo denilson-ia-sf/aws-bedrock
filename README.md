@@ -1,8 +1,9 @@
+# AWS Bedrock AI Agents: Enterprise Orchestration with AgentCore Runtime
 <p align="center">
   <img src="banner.png" alt="AWS Bedrock AgentCore Banner" width="850">
 </p>
 
-# AWS Bedrock AI Agents: Enterprise Orchestration with AgentCore Runtime
+
 
 This repository is a comprehensive guide and production-ready workspace dedicated to building, deploying, and scaling autonomous AI agents on AWS using **Amazon Bedrock** and the **AgentCore Runtime** framework.
 
