@@ -1,0 +1,17 @@
+{
+  "name": "corporate-it-agent-whatsapp",
+  "version": "1.0.0",
+  "description": "WhatsApp channel interface for the Corporate IT Support Agent",
+  "main": "whatsapp-bot.js",
+  "scripts": {
+    "start": "node whatsapp-bot.js"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
+}
