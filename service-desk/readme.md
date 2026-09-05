@@ -1,7 +1,7 @@
 # Corporate IT & HR Support Agent (Active Directory & Local RAG)
 
 <p align="center">
-  <img src="./whatsapp-bot/assets/banner.png" alt="Corporate IT Agent Banner" width="600">
+  <img src="./backend/assets/diagram.png" alt="Corporate IT Agent Architecture Diagram" width="850">
 </p>
 
 An enterprise-grade, asynchronous AI Agent architecture designed to automate corporate IT operations and HR inquiry management. This project decouples cognitive reasoning from active execution by utilizing Anthropic's **Model Context Protocol (MCP)** to securely interface with **Microsoft Active Directory** infrastructure. It concurrently deploys a **Retrieval-Augmented Generation (RAG)** pipeline to surface localized compliance and operational data over an open-source, decoupled messaging channel (**WhatsApp**).
